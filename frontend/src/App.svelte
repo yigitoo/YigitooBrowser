@@ -31,6 +31,7 @@
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-origin: content-box;
+    filter: drop-shadow(0 0.75em crimson);
   }
 
   .result {
